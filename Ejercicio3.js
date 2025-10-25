@@ -16,3 +16,4 @@ let impares = 0;
     
     return { pares, impares };
 }
+contarParesImpares();
