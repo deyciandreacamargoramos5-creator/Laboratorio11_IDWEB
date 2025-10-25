@@ -12,5 +12,3 @@ function Edad(){
     }
     return categoria;
 }
-let resultado = Edad();
-console.log(resultado);
