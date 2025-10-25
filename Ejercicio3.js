@@ -1,6 +1,6 @@
 function contarParesImpares() {
 let pares = 0;
-    let impares = 0;
+let impares = 0;
     
     for(let i = 1; i <= 10; i++) {
         let numero = parseInt(prompt("Ingrese el número"));
